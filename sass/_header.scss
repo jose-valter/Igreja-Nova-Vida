@@ -50,6 +50,9 @@ header{
             align-items: center;
             justify-content: center;
             margin-top: 1rem;
+            img{
+                margin-left: 40px;
+            }
         }
     }
 }
@@ -73,6 +76,7 @@ header{
         .nav-logo img{
             width: 160px;
             margin-top: 2rem;
+            margin-left: 0 !important;
         }
     }
 
